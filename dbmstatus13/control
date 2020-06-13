@@ -1,0 +1,9 @@
+Package: com.megatweak.dbmstatus13
+Name: dBmStatus13
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak for showing the dBm value for cellular reception and Wifi in place of bars.
+Maintainer: JCoder
+Author: JCoder
+Section: Tweaks
