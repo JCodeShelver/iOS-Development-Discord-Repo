@@ -1,4 +1,4 @@
-#import <UIStatusBarSignalStrengthItemView.h>
+#import <UIKitCore/UIStatusBarSignalStrengthItemView.h>
 
 %hook _UIStatusBarSignalView
 
